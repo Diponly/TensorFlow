@@ -50,10 +50,7 @@ X_train,X_test,y_train,y_test = train_test_split(X_data,y_labels,
 '''
 Use vocabulary lists or just use hash buckets.
 
-hash_bucket_size = "this is being used 
-
-                    when don't have any idea how many distinct value present !!"
-
+hash_bucket_size = "this is being used when don't have any idea how many distinct value of categorical columns !!"
 
 '''
 
@@ -102,16 +99,6 @@ final_preds[:10]
 
 from sklearn.metrics import classification_report
 print(classification_report(y_test,final_preds))
-
-
-
-
-
-
-
-
-
-
 
 
 
