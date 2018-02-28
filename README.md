@@ -1,6 +1,6 @@
 # TensorFlow
 This repository contain tensorflow basics to intermediate level.
-The data file name id housing.csv :
+The data file name id housing_price.csv :
 
 Here are some info about data :
 
