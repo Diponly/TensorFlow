@@ -31,6 +31,13 @@ The data is available in git repository as Census_data.
   num_cases_per_batch : 10000
   num_vis : 3072
   
+4. WordEmbedding , sentiment analysis using RNN :
+
+  I am using RNN in Tensorflow.
+  The data is ImdbReviews.tar.gz
+  I am using a basic LSTM concept to train a Seq2Seq Model on word vector and figure out the test accuracy.
+  
+  
  
 
 
