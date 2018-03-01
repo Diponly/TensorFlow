@@ -34,7 +34,7 @@ The data is available in git repository as Census_data.
 4. WordEmbedding , sentiment analysis using RNN :
 
   I am using RNN in Tensorflow.
-  The data is ImdbReviews.tar.gz
+  The data is ImdbReviews.tar.gz and avaialble @ http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
   I am using a basic LSTM concept to train a Seq2Seq Model on word vector and figure out the test accuracy.
   
   
